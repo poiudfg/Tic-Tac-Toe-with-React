@@ -1,3 +1,13 @@
+# Tic-Tac-Toe-with-React.js
+Tic-tac-toe (American English), noughts and crosses (Commonwealth English), or Xs and Os (Canadian or Irish English) is a paper-and-pencil game for two players who take turns marking the spaces in a three-by-three grid with X or O. The player who succeeds in placing three of their marks in a horizontal, vertical, or diagonal row is the winner. It is a solved game, with a forced draw assuming best play from both players.
+[reference information](https://en.wikipedia.org/wiki/Tic-tac-toe)
+![image](https://user-images.githubusercontent.com/94011063/231658141-fb08431b-733b-49e5-ae8b-5ab27437d675.png)
+
+<br />
+
+
+[Example](#Example-of-a-web-page-displayed)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +78,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+# Example of a web page displayed 
+
+![Screenshot 2023-04-13 113151](https://user-images.githubusercontent.com/94011063/231659986-5bfc874f-9fea-45cf-a590-1dab92f8d77e.jpg)
