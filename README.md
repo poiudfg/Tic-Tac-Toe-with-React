@@ -1,13 +1,15 @@
-# Tic-Tac-Toe-with-React.js
+# Tic Tac Toe with React
 Tic-tac-toe (American English), noughts and crosses (Commonwealth English), or Xs and Os (Canadian or Irish English) is a paper-and-pencil game for two players who take turns marking the spaces in a three-by-three grid with X or O. The player who succeeds in placing three of their marks in a horizontal, vertical, or diagonal row is the winner. It is a solved game, with a forced draw assuming best play from both players.
 [reference information](https://en.wikipedia.org/wiki/Tic-tac-toe)
 ![image](https://user-images.githubusercontent.com/94011063/231658141-fb08431b-733b-49e5-ae8b-5ab27437d675.png)
 
 <br />
 
-list of contents
+# list of contents
 
+* [Tic Tac Toe](#Tic-Tac-Toe-with-React)
 * [Example](#Example-of-a-web-page-displayed)
+* [React App](#Getting-Started-with-Create-React-App)
 
 # Getting Started with Create React App
 
