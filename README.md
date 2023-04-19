@@ -5,8 +5,9 @@ Tic-tac-toe (American English), noughts and crosses (Commonwealth English), or X
 
 <br />
 
+list of contents
 
-[Example](#Example-of-a-web-page-displayed)
+* [Example](#Example-of-a-web-page-displayed)
 
 # Getting Started with Create React App
 
